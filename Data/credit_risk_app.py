@@ -250,11 +250,3 @@ if st.button("Predict Credit Risk"):
         st.error("High Credit Risk ❌")
     else:
         st.success("Low Credit Risk ✅")
-
-
-
-
-
-
-
-
